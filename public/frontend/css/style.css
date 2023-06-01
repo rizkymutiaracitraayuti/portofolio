@@ -1,0 +1,22 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(247, 173, 191);
+  font-family: "Josefin Sans", sans-serif;
+}
+
+section {
+  padding-top: 5rem;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+#penghargaan {
+  background-color: rgb(247, 173, 191);
+}
+
+.justify {
+  text-align: justify;
+}
+
+#contact {
+  background-color: rgb(247, 173, 191);
+}
