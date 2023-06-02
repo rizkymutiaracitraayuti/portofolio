@@ -3,7 +3,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark shadow-sm fixed-top" style="background-color: rgb(255, 137, 166)">
       <div class="container">
         <a class="navbar-brand" href="#home">Rizky Mutiara Citra Ayuti</a>
-        <img src="/public/frontend/img/logo.png" alt="logo" width="30" height="30" class="d-inline-block align-text-top" />
+        <img src="/frontend/img/logo.png" alt="logo" width="30" height="30" class="d-inline-block align-text-top" />
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -24,21 +24,13 @@
             <li class="nav-item">
               <a class="nav-link" href="#contact">Kontak </a>
             </li>
-            <div class="dropdown">
-              <button class="btn btn-bs-danger-border-subtle dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">Tugas</button>
-              <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#jadwal">Jadwal Tugas</a></li>
-                <li><a class="dropdown-item" href="https://drive.google.com/file/d/1kD4KWo7-eIvQtw33oeUEvaZcE8vAipgv/view?usp=share_link">Analisis 1</a></li>
-                <li><a class="dropdown-item" href="https://drive.google.com/file/d/16cX_ODK-d5WHJqA7wl1kbX6ix5U1xxbN/view?usp=share_link">Analisis 2</a></li>
-              </ul>
-            </div>
           </ul>
         </div>
       </div>
     </nav>
 
     <section class="jumbotron text-center">
-      <img src="/public/frontend/img/profile.jpeg" alt="profile" width="100" class="rounded-circle img-thumbnail" />
+      <img src="/frontend/img/profile.jpeg" alt="profile" width="100" class="rounded-circle img-thumbnail" />
       <h1 class="display-4">Rizky Mutiara Citra Ayuti</h1>
       <p class="lead"></p>
       <a class="btn btn-outline-danger" href="#about" role="button">More About Citra</a>
@@ -61,7 +53,7 @@
         <div class="row fs-5">
           <div class="col-md-3 mb-5" data-aos="fade-right" data-aos-duration="1000">
             <div class="card text-center">
-              <img src="/public/frontend/img/foto.JPG" class="card-img-top" alt="about" />
+              <img src="/frontend/img/foto.JPG" class="card-img-top" alt="about" />
               <div class="card-body">
                 <p class="justify">Rizky Mutiara Citra Ayuti, Dipanggil Citra tempat tinggal di Gresik. Menempuh pendidikan S1 Pendidikan Teknologi Informasi di Universitas Negeri Surabaya</p>
               </div>
@@ -107,19 +99,19 @@
           </div>
           <div class="carousel-inner">
             <div class="carousel-item active mb-5">
-              <img src="/public/frontend/img/sertif1.jpeg" class="d-block w-100" alt="project 1" />
+              <img src="/frontend/img/sertif1.jpeg" class="d-block w-100" alt="project 1" />
             </div>
             <div class="carousel-item mb-5">
-              <img src="/public/frontend/img/sertif2.jpg" class="d-block w-100" alt="project 2" />
+              <img src="/frontend/img/sertif2.jpg" class="d-block w-100" alt="project 2" />
             </div>
             <div class="carousel-item mb-5">
-              <img src="/public/frontend/img/sertif3.jpg" class="d-block w-100" alt="project 3" />
+              <img src="/frontend/img/sertif3.jpg" class="d-block w-100" alt="project 3" />
             </div>
             <div class="carousel-item mb-5">
-              <img src="/public/frontend/img/sertif4.jpg" class="d-block w-100" alt="project 4" />
+              <img src="/frontend/img/sertif4.jpg" class="d-block w-100" alt="project 4" />
             </div>
             <div class="carousel-item mb-5">
-              <img src="/public/frontend/img/sertif5.png" class="d-block w-100" alt="project 5" />
+              <img src="/frontend/img/sertif5.png" class="d-block w-100" alt="project 5" />
             </div>
           </div>
           <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
@@ -144,7 +136,7 @@
         <div class="row justify-content-center">
           <div class="col-md-4 mb-3">
             <div class="card" data-aos="zoom-in-up" data-aos-duration="500">
-              <img src="/public/frontend/img/p1.jpg" class="card-img-top" alt="project 1" />
+              <img src="/frontend/img/p1.jpg" class="card-img-top" alt="project 1" />
               <div class="card-body">
                 <p class="card-text text-center">Design UI/UX website Doman sebuah website donasi mendapat juara harapan 1</p>
               </div>
@@ -152,7 +144,7 @@
           </div>
           <div class="col-md-4 mb-3">
             <div class="card" data-aos="zoom-in-up" data-aos-duration="500" data-aos-delay="100">
-              <img src="/public/frontend/img/p2.png" class="card-img-top" alt="project 2" />
+              <img src="/frontend/img/p2.png" class="card-img-top" alt="project 2" />
               <div class="card-body">
                 <p class="card-text text-center">Aplikasi game dekstop untuk pembelajaran yang dibuat menggunakan unity 2D</p>
               </div>
@@ -160,7 +152,7 @@
           </div>
           <div class="col-md-4 mb-3">
             <div class="card" data-aos="zoom-in-up" data-aos-duration="500" data-aos-delay="150">
-              <img src="/public/frontend/img/p3.png" class="card-img-top" alt="project 3" />
+              <img src="/frontend/img/p3.png" class="card-img-top" alt="project 3" />
               <div class="card-body">
                 <p class="card-text text-center">Design UI/UX mobile GIMIK yang mengusut UMKM berhasil Mendapat Juara 3</p>
               </div>
@@ -168,7 +160,7 @@
           </div>
           <div class="col-md-4 mb-3">
             <div class="card" data-aos="zoom-in-up" data-aos-duration="500" data-aos-delay="200">
-              <img src="/public/frontend/img/p4.jpeg" class="card-img-top" alt="project 4" />
+              <img src="/frontend/img/p4.jpeg" class="card-img-top" alt="project 4" />
               <div class="card-body">
                 <p class="card-text text-center">Aplikasi mobile android doa sehari hari</p>
               </div>
@@ -176,7 +168,7 @@
           </div>
           <div class="col-md-4 mb-3">
             <div class="card" data-aos="zoom-in-up" data-aos-duration="500" data-aos-delay="250">
-              <img src="/public/frontend/img/p5.png" class="card-img-top" alt="project 5" />
+              <img src="/frontend/img/p5.png" class="card-img-top" alt="project 5" />
               <div class="card-body">
                 <p class="card-text text-center">Aplikasi website e-learning yang dibangun menggunakan wordpress</p>
               </div>
@@ -214,44 +206,6 @@
           </div>
         </div>
       </div>
-    </section>
-
-    <section id="jadwal">
-      <div class="row text-center mb-3">
-        <div class="col">
-          <h3>Jadwal Tugas</h3>
-        </div>
-      </div>
-      <table class="table text-center">
-        <thead>
-          <tr>
-            <th scope="col">No</th>
-            <th scope="col">Hari</th>
-            <th scope="col">Keterangan</th>
-            <th scope="col">Deadline</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr class="table-danger">
-            <th scope="row">1</th>
-            <td>Senin</td>
-            <td>Membuat website</td>
-            <td>Jumat 10:00</td>
-          </tr>
-          <tr class="table-warning">
-            <th scope="row">2</th>
-            <td>Selasa</td>
-            <td>Analisis 1</td>
-            <td><a class="dropdown-item" href="https://drive.google.com/file/d/1kD4KWo7-eIvQtw33oeUEvaZcE8vAipgv/view?usp=share_link">Analisis 1</a></td>
-          </tr>
-          <tr class="table-success">
-            <th scope="row">3</th>
-            <td>Jumat</td>
-            <td>Analisis 2</td>
-            <td><a class="dropdown-item" href="https://drive.google.com/file/d/16cX_ODK-d5WHJqA7wl1kbX6ix5U1xxbN/view?usp=share_link">Analisis 2</a></td>
-          </tr>
-        </tbody>
-      </table>
     </section>
 
     <footer class="footer text-white text-center p-3 mt-5" style="background-color: rgb(255, 137, 166)">
